@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_animalhabitat_animal,animalhabitat.animal,model_animalhabitat_animal,base.group_user,1,1,1,1
+access_animalhabitat_habitat,animalhabitat.habitat,model_animalhabitat_habitat,base.group_user,1,1,1,1
+access_animalhabitat_caretaker,animalhabitat.caretaker,model_animalhabitat_caretaker,base.group_user,1,1,1,1
